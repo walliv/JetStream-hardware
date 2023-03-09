@@ -432,5 +432,3 @@ interface pcie_configurationStatus;
 		input  virtualFunction_tph_st_mode
 	);
 endinterface
-
-//endpackage
